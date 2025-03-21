@@ -48,6 +48,8 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="coding gif" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="coding gif" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="coding gif" />
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="coding gif" /><br>
   <b>Let’s build something awesome together!</b>
 </p>
