@@ -24,7 +24,12 @@
   <img src="https://img.shields.io/badge/Backend_Developer-2B2D42?style=flat-square&logo=codeigniter&logoColor=white" alt="Backend Developer" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Kubernetes-2B2D32?style=flat-square&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Microservices-007ACC?style=flat-square&logo=azurefunctions&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/OpenResty-262D42?style=flat-square&logoColor=white" alt="Openresty" />
+  <img src="https://img.shields.io/badge/Keycloak-272D42?style=flat-square&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/GIT-2B5D42?style=flat-square&logoColor=white" alt="GIT" />
+  <img src="https://img.shields.io/badge/CI+CD-2B2D32?style=flat-square&logoColor=white" alt="CICD" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/NoSQL-F27059?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
