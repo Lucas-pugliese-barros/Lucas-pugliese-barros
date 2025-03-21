@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>Full-Stack Dev | Code Wizard | Problem Solver</i><br>
+  <i>Back-End Dev | Code Wizard | Problem Solver</i><br>
   Crafting solutions, one line at a time.
 </p>
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=flat-square&logo=git&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/SOLID-9C27B0?style=flat-square&logo=awslambda&logoColor=white" alt="SOLID" />
+  <img src="https://img.shields.io/badge/SOLID-9C27B0?style=flat-square&logoColor=white" alt="SOLID" />
   <img src="https://img.shields.io/badge/TDD-FF5722?style=flat-square&logo=jest&logoColor=white" alt="TDD" />
   <img src="https://img.shields.io/badge/BDD-8BC34A?style=flat-square&logo=cucumber&logoColor=white" alt="BDD" />
 </p>
@@ -47,6 +47,7 @@
 </table>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="coding gif" />
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="coding gif" /><br>
   <b>Let’s build something awesome together!</b>
 </p>
